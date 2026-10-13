@@ -10,6 +10,7 @@ Resolução do problema da satisfatibilidade booleana (SAT) com algoritmo genét
 </p>
 
 > **Disciplina:** SSC0713 - Sistemas Evolutivos Aplicados à Robótica <br>
+> **Professor(a):** Eduardo do Valle Simões <br>
 > **Instituição:** USP - Universidade de São Paulo
 
 <p align="center">
